@@ -1,0 +1,67 @@
+/* Basic page styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f0ff;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #7353ba;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+/* Navigation links */
+nav {
+    background-color: #35245c;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+/* Main content */
+main {
+    width: 85%;
+    max-width: 800px;
+    margin: 25px auto;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/* Section headings */
+h2 {
+    color: #7353ba;
+}
+
+/* Lists */
+li {
+    margin-bottom: 8px;
+}
+
+/* Links */
+a {
+    color: #7353ba;
+}
+
+/* Footer */
+footer {
+    background-color: #35245c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
